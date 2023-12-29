@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4EC7AA00-E7F7-4B01-8BBA-7313F843DAE7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1404C431-A050-4D87-8E12-43E22DE4BA2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SettingsScreen/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "changeColor(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A772901-A90D-4C66-B810-E131C7A496E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SettingsScreen/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "changeColor(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A772901-A90D-4C66-B810-E131C7A496E0 - f0e1f3861fc9ccec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.SettingsView.changeColor(__C.UIColorWell) -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/SettingsScreen/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "3A772901-A90D-4C66-B810-E131C7A496E0 - f0e1f3861fc9ccec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.SettingsView.changeColor(__C.UIColorWell) -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/SettingsScreen/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C4B8E30-FAF6-4973-8B17-F5684A1E4D41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SettingsScreen/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "changeColor(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "545C34CF-00A1-405D-803E-5BFD36A02B56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RunScreen/PlayscrViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "animeObstacle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D231A52-A603-4FC6-89F6-AE95E4E05EA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SaveManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "saveImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15C4AFDB-DEC8-4642-813B-C920700FEFB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SaveManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "saveImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2B62DDF-A2A9-4DBA-9A3E-4228BF5DB359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SettingsScreen/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "avatar"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC8D3C03-72F5-4E5A-9EEC-056DE084298D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/SettingsScreen/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "avatar"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RecordScreen/PlayerTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "PlayerTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E - 6971f2360d6af851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.recordLable.getter : __C.UILabel"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E - 920181ba94481ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in starrun.PlayerTableViewCell.recordLable.getter : __C.UILabel"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E - caf6be24f96f9465"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.recordLable.setter : __C.UILabel"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E - f57a0e919db4a754"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.recordLable.modify : __C.UILabel"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6BF15FF3-7CDB-4E72-9EE7-7FF207B49B5E - 212bb86b71b07033"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.recordLable.modify : __C.UILabel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7425C8B8-AA43-44F9-A872-DD9DCF6DC3F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RecordScreen/PlayerTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7425C8B8-AA43-44F9-A872-DD9DCF6DC3F7 - 7bba8e030d646574"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.configure(with: starrun.PlayerCellModel) -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "7425C8B8-AA43-44F9-A872-DD9DCF6DC3F7 - 7bba8e030d64655b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.configure(with: starrun.PlayerCellModel) -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "7425C8B8-AA43-44F9-A872-DD9DCF6DC3F7 - 7bba8e030d646519"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayerTableViewCell.configure(with: starrun.PlayerCellModel) -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/PlayerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "201D9F39-2742-4D53-B52A-3A921D0F40A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RunScreen/PlayscrViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "saveScore()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "201D9F39-2742-4D53-B52A-3A921D0F40A9 - 160aa4deb313d87a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayscrViewController.saveScore() -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RunScreen/PlayscrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "201D9F39-2742-4D53-B52A-3A921D0F40A9 - 160aa4deb313d85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayscrViewController.saveScore() -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RunScreen/PlayscrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E70FC81A-10A1-4F12-99D9-7CE7FAD3A8DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RunScreen/PlayscrViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "saveScore()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E70FC81A-10A1-4F12-99D9-7CE7FAD3A8DB - 160aa4deb313d8bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayscrViewController.saveScore() -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RunScreen/PlayscrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "E70FC81A-10A1-4F12-99D9-7CE7FAD3A8DB - 160aa4deb313d89f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.PlayscrViewController.saveScore() -&gt; ()"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RunScreen/PlayscrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "255">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1D50B1F-FE87-4EC4-9CEC-8F2B795A68BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RecordScreen/PlayerTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "starrun/RecordScreen/RecordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RecordViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - 89eadb82767f6525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.playersData.getter : Swift.Array&lt;starrun.PlayerCellModel&gt;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/RecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - 21792c7f76a16b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.playersData.setter : Swift.Array&lt;starrun.PlayerCellModel&gt;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/RecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - dd38b2c9d004f75b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.playersData.modify : Swift.Array&lt;starrun.PlayerCellModel&gt;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/RecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - 3882bbe992828f27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.playersData.modify : Swift.Array&lt;starrun.PlayerCellModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - fa6408635cbeacb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; starrun.RecordViewController"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/RecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "7B7E13A6-BAF7-4F8E-8D79-F137A39C349D - 6a04fcb12660aaf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "starrun.RecordViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;starrun.RecordViewController&gt;"
+                  moduleName = "starrun"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alina/Desktop/prila/starrun/starrun/RecordScreen/RecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

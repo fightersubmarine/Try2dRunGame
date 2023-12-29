@@ -1,0 +1,6 @@
+framework module Pods_starrun_starrunUITests {
+  umbrella header "Pods-starrun-starrunUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
